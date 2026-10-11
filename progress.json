@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "room": "Test Room",
+    "url": "https://tryhackme.com/",
+    "date_logged": "2026-10-11",
+    "note": "rooms/test-room.md"
+  }
+]
